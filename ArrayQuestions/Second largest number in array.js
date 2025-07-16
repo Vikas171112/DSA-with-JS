@@ -13,16 +13,14 @@
 
 //**************Brute Force*************************** */----------------------------------------
 function secondLargest(arr) {
-  // 1. Handle Edge Cases: If array is null, empty, or has less than 2 elements
   if (!arr || arr.length < 2) {
     return -1;
   }
 
-  // 2. Sort the array in ascending order
-  arr.sort((a, b) => a - b); // Example: [1, 1, 10, 12, 34, 35]
+  arr.sort((a, b) => a - b);
 
   const n = arr.length;
-  let largest = arr[n - 1]; // The largest element is the last one in a sorted array
+  let largest = arr[n - 1];
 
   // 3. Iterate from the second-to-last element backwards
   //    to find the first element that is not equal to the largest.

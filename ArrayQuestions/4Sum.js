@@ -17,7 +17,7 @@ function fourSum(arr, target) {
 
       let left = j + 1;
       let right = n - 1;
-      et;
+
       while (left < right) {
         const currentSum = arr[left] + arr[right];
 
