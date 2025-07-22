@@ -1,3 +1,5 @@
+//GIVEN AN ARRAY fIND ALL THE UNIQUE TRIPLETS THAT SUM UP TO ZERO.
+//A+B+C=0 ie.A+B=-C
 var threeSum = function (nums) {
   let result = [];
   nums.sort((a, b) => a - b);
