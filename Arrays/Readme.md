@@ -1,3 +1,3 @@
-###Arrays
+##Arrays
 
 [Two Sum]()
