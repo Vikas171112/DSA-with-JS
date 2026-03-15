@@ -10,7 +10,7 @@ function reverseString(s) {
 }
 
 console.log(reverseString("Hello"));
-//optimized approach
+
 // Optimized Approach (Two Pointers)
 function reverseStringOptimized(s) {
   let arr = s.split(""); // convert string to array
