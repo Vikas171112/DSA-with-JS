@@ -16,3 +16,6 @@ This folder contains array-based problems solved using JavaScript.
 4. Squares of Sorted Array
    https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1950484638/
    Solution:[Squares of Sorted Array](./squaresOfSortedArray.js)
+5. Three Sum
+   https://leetcode.com/problems/3sum/
+   Solution:[3 Sum](./3Sum.js)
