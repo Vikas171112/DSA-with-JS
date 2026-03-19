@@ -19,3 +19,7 @@ This folder contains array-based problems solved using JavaScript.
 5. Three Sum
    https://leetcode.com/problems/3sum/
    Solution:[3 Sum](./3Sum.js)
+
+6. Valid Anagram
+   https://leetcode.com/problems/valid-anagram/submissions/1953141255/
+   Solution:[Valid Anagram](./validAnagram.js)
